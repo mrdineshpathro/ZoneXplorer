@@ -1,0 +1,6 @@
+dnspython>=2.6.0
+rich>=13.7.0
+networkx>=3.2.1
+PySocks>=1.7.1
+aiohttp>=3.9.1
+tldextract>=5.1.0
