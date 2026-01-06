@@ -34,7 +34,7 @@ sudo apt update && sudo apt install -y python3-venv git
 Navigate to your desired directory and clone the tool.
 
 ```bash
-git clone https://github.com/your-repo/ZoneXplorer.git
+git clone https://github.com/mrdineshpathro/ZoneXplorer.git
 cd ZoneXplorer
 ```
 
@@ -108,5 +108,6 @@ python3 main.py -d site.gov --walk --graph -o gov_recon
 
 ---
 <p align="center">Made with ❤️ for the Security Community</p>
+
 
 
