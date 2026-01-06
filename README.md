@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mrdineshpathro/ZoneXplorer/blob/main/zonexplorer_banner.png" alt="ZoneXplorer Banner" width="100%">
+  <img src="https://github.com/mrdineshpathro/ZoneXplorer/blob/main/zonexplorer_banner.png" alt="ZoneXplorer Banner" width="50%">
 </p>
 
 # 🌐 ZoneXplorer v4 Ultimate
@@ -108,4 +108,5 @@ python3 main.py -d site.gov --walk --graph -o gov_recon
 
 ---
 <p align="center">Made with ❤️ for the Security Community</p>
+
 
